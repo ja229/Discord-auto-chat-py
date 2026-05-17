@@ -1,9 +1,9 @@
 token:
   - "MTM4Nzg4NjA4NzMwNDc3Mzg5OA.GE3za7.cIbsdZDX4qIKyKaPehawyJjK69cKJ8ZA7jW2Ls"
-  - "your_token_2"
+  - "MTQ3OTg4Mjg0MDM4MzU1MzY1OA.Gn-TdH.zj1HV81iPf9dAhoxnPBHQFw4-zwoUy0K6mwzO4"
 channel_id:
   - "1491198046103666793"
-  - "channel_id_2"
+  - "1491198046103666793"
   - "channel_id_3"
 token_delay: 5  # Delay for each token processing in seconds
 message_delay: 2  # Delay for each message sent in seconds
