@@ -1,8 +1,8 @@
 token:
-  - "your_token_1"
+  - "MTM4Nzg4NjA4NzMwNDc3Mzg5OA.GE3za7.cIbsdZDX4qIKyKaPehawyJjK69cKJ8ZA7jW2Ls"
   - "your_token_2"
 channel_id:
-  - "channel_id_1"
+  - "1491198046103666793"
   - "channel_id_2"
   - "channel_id_3"
 token_delay: 5  # Delay for each token processing in seconds
